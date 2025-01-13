@@ -1,0 +1,456 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.kop{
+    width: 1920px;
+    margin: auto;
+}
+.tip{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+}
+.hit{
+    border: none;
+    background-color: white;
+}
+.jkl{
+    display: flex;
+    align-items: center;
+}
+.op{
+    border: none;
+    background-color: white;
+}
+.jti{
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 32px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+    margin-left: 75px;
+}
+.gutjmk{
+font-family: Montserrat;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+}
+.ciopl{
+    width: 246px;
+    height: 56px;
+    background-color: #2770F1;
+    color: white;
+    border: none;
+    border-radius: 8px;
+}
+.qw{
+    border: none;
+   
+}
+.butjf{
+display: flex ;
+align-items: center;
+gap: 20px;
+}
+.clip{
+    margin-left: 20px;
+}
+.xxx{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    Font:Montserrat
+}
+.xxx button{
+color: #2770F1;
+border: none;
+background-color: white;
+margin-left: 10px;
+}
+.zaq{
+font-family: Montserrat;
+font-size: 56px;
+font-weight: 800;
+line-height: 64px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+margin-bottom: 30px;
+}
+.xzxz{
+font-family: Montserrat;
+font-size: 56px;
+font-weight: 700;
+line-height: 64px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+}
+
+.jio p {
+    color: #3F578B;
+}
+.jpnm{
+    margin-bottom: 20px;
+}
+.f{
+    width:191px;
+    height: 56px;
+    padding: 16px;
+    border-radius: 4px;
+    color: white;
+    background-color: #2770F1;    
+    border: none;
+    margin-top: 20px;
+}
+.j{
+    width:256px;
+    height:56px;
+    padding: 16px ;
+    border-radius: 4px;
+    color: #2770F1;
+    background-color: #F1F5FF;
+    border: none;
+    margin-left: 20px;
+}
+.buty{
+    display: flex;
+    justify-content: space-between ;
+    margin-top: 80px;
+}
+.bity{
+   margin-top: 150px;
+   margin-left: 100px;
+}
+
+.container {
+    max-width: 400px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #1a1a1a;
+}
+
+.services {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.service-item {
+    display: flex;
+    padding: 10px;
+    background-color: #f1f5fe;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.service-item:hover {
+    background-color: #e2e8fc;
+}
+
+.service-name {
+    font-size: 16px;
+    color: #1a1a1a;
+}
+
+.service-price {
+    color: #0066ff;
+}
+.niuty{
+    display: flex;
+    gap: 40px;
+}
+.citopo{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 200px;
+}
+.pppp{
+    margin-left: 100px;
+}
+.fjkl{
+   margin-top: 20px;
+   margin-left: 10px;
+}
+.v{
+    display: flex;
+}
+.kush{
+font-family: Montserrat;
+font-size: 44px;
+font-weight: 800;
+line-height: 56px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+margin-left: 200px;
+margin-top: 190px;
+}
+.btyuj{
+    width: 100%;
+    height: 839px;
+    background-color: #163063;
+    margin-top: 300px;
+}
+.trtr{
+    font-family: Montserrat;
+    font-size: 44px;
+    font-weight: 800;
+    line-height: 56px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: white;
+    margin-left: 100px;
+    
+}
+.klkl{
+    margin-top: 30px;
+}
+.llll{
+width: 350px;
+height: 188px;
+padding: 16px 16px 24px 16px;
+gap: 16px;
+border-radius: 56px 4px 4px 4px;
+background-color: white;
+
+}
+.bbnm{
+    display: flex;
+    gap: 100px;
+    margin-bottom: 100px;
+}
+.dddd{
+    margin-top: 160px;
+  
+    display: flex;
+}
+.oooo{
+margin-left: 40px;
+margin-top: 26px;
+}
+.koi{
+   margin-top: -20px;
+}
+.bvc{
+    width: 100%;
+    height: 546px;
+    background-color: #162E5E;
+    position: relative;
+}
+.topkin{
+position: absolute;
+width: 872px;
+height: 322px;
+border-radius: 4px;
+background-color: #2770F1;
+z-index: 10;
+margin-top: -430px;
+margin-left: 500px;
+}
+.cvcv{
+font-family: Montserrat;
+font-size: 32px;
+font-weight: 700;
+line-height: 40px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: white;
+align-items: center;
+}
+.fgfg{
+font-family: Montserrat;
+font-size: 18px;
+font-weight: 500;
+line-height: 26px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: white;
+}
+.uyuy{
+width: 298.5px;
+height: 56px;
+padding: 12px ;
+border-radius: 4px;
+color: #FFFFFF66;
+border:  none;
+background-color: #FFFFFF33;
+}
+.nyny{
+    width: 298px;
+height: 56px;
+padding: 12px ;
+border-radius: 4px;
+color: #FFFFFF66;
+border:  none;
+background-color:  #FFFFFF33;
+
+}
+.kuku{
+    width: 191px;
+    height: 56px;
+    padding: 16px;
+    border-radius: 8px;
+    background-color: #152F60;
+    color: white;
+}
+.niyniy{
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.wwko{
+font-family: Montserrat;
+font-size: 16px;
+font-weight: 400;
+color: white;
+line-height: 24px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+margin-top: 30px;
+}
+.rrtuyij{
+    margin-top: 50px;
+}
+.xnxn{
+font-family: Montserrat;
+font-size: 44px;
+font-weight: 800;
+line-height: 56px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+}
+.card {
+    background-color:  #162D5F;
+    color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 719px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.card h3 {
+    margin: 0 0 10px;
+    font-size: 1.5em;
+}
+.card .date {
+    font-size: 0.9em;
+    color: #d0d8e2;
+    margin-bottom: 15px;
+}
+.card p {
+    font-size: 1em;
+    line-height: 1.5;
+    margin: 0 0 15px;
+}
+.card a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.card a:hover {
+    text-decoration: underline;
+}
+.uhfnmn{
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    margin-top: 100px;
+}
+.fknfiewdp{
+font-family: Montserrat;
+font-size: 44px;
+font-weight: 800;
+line-height: 56px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+margin-top: 150px;
+}
+.gkgk{
+    margin-top: 100px;
+}
+.mbmb{
+font-family: Montserrat;
+font-size: 32px;
+font-weight: 800;
+line-height: 39.01px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+margin-bottom: 20px;
+
+}
+.gkgk p {
+font-family: Montserrat;
+font-size: 18px;
+font-weight: 400;
+line-height: 26px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #3F578B;
+}
+.jglbnmcx{
+    width: 501px;
+    height: 445px;
+    border-radius: 4px;
+    position: absolute;
+    margin-top: -450px;
+}
+.qqqqa{
+    width: 191px;
+    height: 56px;
+    border-radius: 4px;
+    border: none;
+    color: #0066ff;
+}
+.aaaaq{
+    width: 191px;
+    height: 56px;
+    border-radius: 4px;
+    border: none;
+    color: white;
+    background-color: #0066ff;
+}
+.cretg{
+font-family: Montserrat;
+font-size: 32px;
+font-weight: 800;
+line-height: 39.01px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+margin-top: 10px;
+}
+.vnvnmblp{
+    display: flex;
+    gap: 20px;
+}
+.ttttui{
+    margin-left: 80px;
+}
+.cccc{
+    margin-bottom: 20px;
+}
+.werwer{
+    margin-bottom: 20px;
+}
+
+
